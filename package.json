@@ -2,10 +2,16 @@
   "name": "gentyl-builder-server",
   "version": "0.0.0",
   "description": "A Node server for the gentyl demo site",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "typings": "^1.4.0"
+  }
 }

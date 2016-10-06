@@ -1,0 +1,3 @@
+[submodule "ember-app"]
+	path = ember-app
+	url = git@github.com:Space-Ed/gentyl-builder-app.git
